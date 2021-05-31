@@ -5262,6 +5262,9 @@ Created using IcoMoon - icomoon.io
 
 /* Footer */
 /* Social button style */
+.profile-page .button-container {
+  text-align: center;
+  margin-top: -106px; }
 .cc-facebook:hover i {
   color: #3b5998; }
 
