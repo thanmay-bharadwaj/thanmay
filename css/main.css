@@ -3656,7 +3656,8 @@ Created using IcoMoon - icomoon.io
 
 .section-full-page > .content,
 .section-full-page > .footer {
-  position: relative;
+	text-align=center
+/*   position: relative; */
   z-index: 4; }
 
 .section-full-page > .content {
